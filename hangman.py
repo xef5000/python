@@ -1,4 +1,4 @@
-import random
+import random #pour choisir les mots au hasard
 
 Mots = ["roi", "lionne", "pilote", "cinq", "micro"]
 mot = random.choice(Mots)
